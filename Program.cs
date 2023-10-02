@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AliSalmeh_ProjectWeek5.FindMaxMin_Refactor
+namespace AliSalmeh_ProjectWeek5_FindMaxMin
 {
     class Program
     {
